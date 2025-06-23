@@ -1,0 +1,5 @@
+# litellm_config.yaml
+model_list:
+  - model_name: openai/gpt-3.5-turbo
+    litellm_provider: openai
+    api_key: your-openai-api-key
